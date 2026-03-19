@@ -1,4 +1,4 @@
-//Título :  Calculando densidade populacional e PIB per Capta
+/* Título :  Calculando densidade populacional e PIB per Capta
 
 Instruçoes : 
 
@@ -6,7 +6,7 @@ Calcular a Densidade Populacional: Divida a população da cidade pela sua área
  
 Calcular o PIB per Capita: Divida o PIB da cidade pela sua população. O resultado será o PIB per capita, que indica a riqueza média por pessoa na cidade. Armazene esse valor em uma variável do tipo float.
  
-Exibir os Resultados: Além de exibir as informações lidas do usuário (como no nível básico), seu programa também deve exibir a densidade populacional e o PIB per capita calculados para cada cidade. Formate os valores de ponto flutuante com duas casas decimais.//
+Exibir os Resultados: Além de exibir as informações lidas do usuário (como no nível básico), seu programa também deve exibir a densidade populacional e o PIB per capita calculados para cada cidade. Formate os valores de ponto flutuante com duas casas decimais.*/
 
 Código : 
 
